@@ -1,0 +1,69 @@
+# =========================
+# Java / Spring Boot
+# =========================
+/backend/target/
+/backend/out/
+/backend/build/
+/backend/bin/
+*.class
+*.war
+*.jar
+*.ear
+*.iml
+*.log
+*.tmp
+*.out
+
+# Maven
+/backend/.mvn/
+.backend/.settings/
+.backend/.classpath
+.backend/.project
+
+# Gradle
+/backend/.gradle/
+
+# =========================
+# React / Node.js
+# =========================
+/frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# Build output
+/frontend/build/
+/frontend/dist/
+/frontend/.cache/
+
+# Environment files
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.*.local
+
+# =========================
+# IDE / Editor Files
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# =========================
+# OS-specific Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Other
+# =========================
+*.pid
+*.seed
+*.cover
+*.orig
+*.rej
