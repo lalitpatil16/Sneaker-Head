@@ -1,0 +1,107 @@
+10:44:46 Memory Pressure: Moderate
+10:44:56 Memory Pressure: Moderate
+10:45:06 Memory Pressure: Moderate
+10:45:16 Memory Pressure: Moderate
+10:45:26 Memory Pressure: Moderate
+10:45:36 Memory Pressure: Moderate
+10:45:46 Memory Pressure: Moderate
+10:45:56 Memory Pressure: Moderate
+10:46:01 Memory Pressure: Critical
+10:46:06 Memory Pressure: Moderate
+10:46:16 Memory Pressure: Moderate
+10:46:26 Memory Pressure: Moderate
+10:46:36 Memory Pressure: Moderate
+10:46:46 Memory Pressure: Moderate
+10:46:56 Memory Pressure: Moderate
+10:47:06 Memory Pressure: Moderate
+10:47:16 Memory Pressure: Moderate
+10:47:26 Memory Pressure: Moderate
+10:47:36 Memory Pressure: Moderate
+10:47:46 Memory Pressure: Moderate
+10:47:56 Memory Pressure: Moderate
+10:48:04 Microsoft.NewBrowser_Popup
+10:48:04 Microsoft.BrowserList.AddBrowser
+10:48:04 Browser9 Insert active Tab9 at 0
+10:48:04 Tab9 StartNav289 #auto_toplevel
+10:48:04 Tab9 StartNav290 #typed
+10:48:04 Tab9 FinishNav289
+10:48:04 Tab9 PageLoad
+10:48:04 Tab9 FinishNav290
+10:48:04 Tab9 PageLoad
+10:48:05 Tab9 StartNav291 #typed
+10:48:05 Tab9 FinishNav291
+10:48:05 Tab9 PageLoad
+10:48:06 Memory Pressure: Moderate
+10:48:06 Tab9 StartNav292 #typed
+10:48:06 Tab9 FinishNav292
+10:48:06 Tab9 PageLoad
+10:48:16 Memory Pressure: Moderate
+10:48:26 Memory Pressure: Moderate
+10:48:34 Tab9 StartNav293 #typed
+10:48:34 Tab9 FinishNav293
+10:48:34 Tab9 PageLoad
+10:48:34 Tab9 StartNav294 #typed
+10:48:34 Tab9 FinishNav294
+10:48:34 Tab9 PageLoad
+10:48:36 Memory Pressure: Moderate
+10:48:42 Tab9 StartNav295 #typed
+10:48:42 Tab9 FinishNav295
+10:48:42 Tab9 PageLoad
+10:48:42 Tab9 StartNav296 #typed
+10:48:42 Tab9 FinishNav296
+10:48:42 Tab9 PageLoad
+10:48:44 Tab9 StartNav297 #typed
+10:48:44 Tab9 FinishNav297
+10:48:44 Tab9 PageLoad
+10:48:45 Tab9 StartNav298 #typed
+10:48:45 Tab9 FinishNav298
+10:48:45 Tab9 PageLoad
+10:48:46 Tab9 StartNav299 #typed
+10:48:46 Tab9 FinishNav299
+10:48:46 Tab9 PageLoad
+10:48:48 Tab9 StartNav300 #typed
+10:48:48 Tab9 FinishNav300
+10:48:48 Tab9 PageLoad
+10:48:49 Tab9 StartNav301 #typed
+10:48:49 Tab9 FinishNav301
+10:48:49 Tab9 PageLoad
+10:49:11 Memory Pressure: Moderate
+10:49:26 Memory Pressure: Moderate
+10:50:26 Memory Pressure: Moderate
+10:50:36 Memory Pressure: Moderate
+10:50:46 Memory Pressure: Moderate
+10:50:56 Memory Pressure: Moderate
+10:51:06 Memory Pressure: Moderate
+10:51:16 Memory Pressure: Moderate
+10:51:26 Memory Pressure: Moderate
+10:51:36 Memory Pressure: Moderate
+10:51:46 Memory Pressure: Moderate
+10:51:56 Memory Pressure: Moderate
+10:52:00 Tab9 StartNav302 #typed
+10:52:00 Tab9 FinishNav302
+10:52:00 Tab9 PageLoad
+10:52:05 Tab9 StartNav303 #typed
+10:52:05 Tab9 FinishNav303
+10:52:05 Tab9 PageLoad
+10:52:05 Tab9 StartNav304 #typed
+10:52:05 Tab9 FinishNav304
+10:52:05 Tab9 PageLoad
+10:52:06 Tab9 StartNav305 #typed
+10:52:06 Tab9 FinishNav305
+10:52:06 Tab9 PageLoad
+10:52:06 Memory Pressure: Moderate
+10:52:14 Tab9 StartNav306 #typed
+10:52:14 Tab9 FinishNav306
+10:52:14 Tab9 PageLoad
+10:52:16 Memory Pressure: Moderate
+10:52:17 Tab9 StartNav307 #typed
+10:52:17 Tab9 FinishNav307
+10:52:17 Tab9 PageLoad
+10:52:26 Memory Pressure: Moderate
+10:52:36 Memory Pressure: Moderate
+10:52:46 Memory Pressure: Moderate
+10:52:56 Memory Pressure: Moderate
+10:53:06 Memory Pressure: Moderate
+10:53:16 Memory Pressure: Moderate
+10:53:26 Memory Pressure: Moderate
+10:54:38 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
